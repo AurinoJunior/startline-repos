@@ -1,6 +1,4 @@
-# 🚀 Startline Repos
-
-**Configuração inicial de projetos simples (Boilerplates)**
+## 🚀 Startline Repos
 
 Coleção de boilerplates prontos para usar em diferentes tecnologias, facilitando o início de novos projetos.
 
