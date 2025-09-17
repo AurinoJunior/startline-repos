@@ -4,7 +4,7 @@
 
 Coleção de boilerplates prontos para usar em diferentes tecnologias, facilitando o início de novos projetos.
 
-## 🚀 Como Usar
+## 🛠️ Como Usar
 
 Recomendo utilizar a aplicação startline nesse link:
 
